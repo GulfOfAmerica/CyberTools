@@ -80,7 +80,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 ## Contact
 
 For inquiries, collaboration, or feedback, contact us at:
-- Email: [your_email@example.com](mailto:your_email@example.com)
+- Email: [cybervyber@proton.me](mailto:cybervyber@proton.me)
 - GitHub: [@GulfOfAmerica](https://github.com/GulfOfAmerica)
 
 ## Acknowledgments
